@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.inputs-tab{
+    display: flex;
+    height: 100vh;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    margin: 50px 0px;
+    font-size: 40px;
+}
+
+ul#List{
+    display: flex;
+}
+
+ul#List li{
+    list-style: none;
+    margin: 5px;
+}
